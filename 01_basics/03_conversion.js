@@ -99,7 +99,7 @@ let numberScore5 = Number(score5)
 
 console.log(typeof(numberScore5)); // output-> type number  ( value 1)
 
-// this will will convert boolean true or false to its numbered value that is 1 or 0 (type number)
+// this will convert boolean true or false to its numbered value that is 1 or 0 (type number)
 
 //---------------------------------------------------------
 
