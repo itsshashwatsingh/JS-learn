@@ -57,7 +57,7 @@ let numberScore4 = Number(score4)
 console.log(typeof(numberScore4)); // output-> NaN
 
 
-// this will will convert undefined to its "NaN" value that is of type number
+// this will will convert undefined to "NaN" value that is of type number
 
 //=================================================================================================================================================
 
