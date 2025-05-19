@@ -22,7 +22,7 @@ let isloggedIn = false // boolean datatype
 
 //----------------------------------
 
-// these datatypes are automaically specified by javascript bases on the values stored in variables
+// these datatypes are automaically specified by javascript based on the values stored in variables
 
 // number => range is 2 to the power of 53 
 // bigint for really big number (generally use in trading , streaming or social media platforms)
