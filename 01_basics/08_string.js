@@ -94,7 +94,15 @@ let url="htpps://shashwat.com/shashwat%20singh"
 
 console.log(url.replace("%20"," "));// output: htpps://shashwat.com/shashwat singh
 
+
+// now we want to split a string in two parts that is fistname and lastname from - character of string
+// for that we use split
 let Myname2 ="Ankush-Singh"
 
-console.log(Myname2.split('-',1));
+console.log(Myname2.split('-')); // output:[ 'Ankush', 'Singh' ]
+
+
+// we can also put a limit to split and get only desired part of split
+//like firstname
+console.log(Myname2.split('-',1)); //output:[ 'Ankush' ]
 
