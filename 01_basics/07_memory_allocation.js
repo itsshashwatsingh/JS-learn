@@ -49,3 +49,6 @@ console.log(userTwo);
 // the email in userOne has been changed
 // note that when we create another object inside userTwo 
 // it becomes original with is own value and not a reference of userOne anymore
+
+// note that changes must be made inside existing object using referenceObj.changeValue="****"
+// if created a new object inside reference of orignal it will not replace the orignal object
