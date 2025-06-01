@@ -2,6 +2,8 @@ const Myname = " shashwat"
 
 const repoCount = 10
 
+//string functionalities
+
 // now i want to write a sentence -->
 // "My name is shashwat and my repo count is 10"
 
@@ -23,7 +25,7 @@ console.log(`My name is${Myname} and my repo count is ${repoCount}`);
 
 let gameName = new String('counter strike')
 // new is an object function used to define or declare objects
-
+//and String here is to define that the datatype can only be a string or there will be error
 
 console.log(gameName);  // output: [String: 'counter strike'] 
 
