@@ -22,7 +22,7 @@ const AnotherDate = new Date(2023,0,21)
 // here 2023 is year,0 is jan month in array format,21 is day
 console.log(AnotherDate.toDateString());//:Sat Jan 21 2023
 
-// can further add time as well as well
+// can further add time as well 
 const newAnotherDate = new Date(2023,0,21,5,30)
 console.log(newAnotherDate.toLocaleString());//21/1/2023, 5:30:00 am
 //here used toLocaleString which is another of the date function 
