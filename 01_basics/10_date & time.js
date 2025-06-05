@@ -65,3 +65,4 @@ console.log(newAnotherDate.toLocaleString('default',{
     year:"2-digit"
 })
 )//Saturday, 21 January 23
+
